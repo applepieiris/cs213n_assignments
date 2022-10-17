@@ -1,0 +1,3 @@
+[submodule "solved_assignments/cs231n"]
+	path = solved_assignments/cs231n
+	url = https://github.com/lightaime/cs231n.git
